@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Intel Orchestration Software</title>
+    <link>https://intel-orchestration-software.github.io/blog/</link>
+    <description>Recent content in Blogs on Intel Orchestration Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Mon, 18 Jun 2018 18:51:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://intel-orchestration-software.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Openstack 101</title>
+      <link>https://intel-orchestration-software.github.io/blog/openstack-101/</link>
+      <pubDate>Mon, 18 Jun 2018 18:51:40 +0000</pubDate>
+      
+      <guid>https://intel-orchestration-software.github.io/blog/openstack-101/</guid>
+      <description>What Is OpenStack? For those of you who have not heard of &amp;ldquo;OpenStack&amp;rdquo; or the OpenStack Foundation, you might be wondering what it is. Wiki defines it as an a free and open-source software platform for cloud computing, mostly deployed as an infrastructure-as-a-service (IaaS).
+While that is true, it is incomplete and unless you know what infrastructure as a service is it&amp;rsquo;s not very helpful.Granted the wiki page does actually explain what OpenStack and what OpenStack does but ill have a go anyway.</description>
+    </item>
+    
+  </channel>
+</rss>

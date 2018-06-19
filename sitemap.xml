@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://intel-orchestration-software.github.io/blog/openstack-101/</loc>
+    <lastmod>2018-06-18T18:51:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://intel-orchestration-software.github.io/tags/beginner/</loc>
+    <lastmod>2018-06-18T18:51:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intel-orchestration-software.github.io/blog/</loc>
+    <lastmod>2018-06-18T18:51:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intel-orchestration-software.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intel-orchestration-software.github.io/</loc>
+    <lastmod>2018-06-18T18:51:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intel-orchestration-software.github.io/tags/openstack/</loc>
+    <lastmod>2018-06-18T18:51:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intel-orchestration-software.github.io/tags/</loc>
+    <lastmod>2018-06-18T18:51:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intel-orchestration-software.github.io/categories/technology-overview/</loc>
+    <lastmod>2018-06-18T18:51:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
